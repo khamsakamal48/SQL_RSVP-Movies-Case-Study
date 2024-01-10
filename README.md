@@ -28,7 +28,7 @@ If you don't wish to perform the data loading part, you can directly download th
 commands and data required for the database creation and start directly with the querying.
 
 ## Table column mapping
-<img src="/Volumes/Samsung/SQL - RSVP Movies Case Study/Table Column Mapping.png"/>
+<img src="Table Column Mapping.png"/>
 
 ## ERD
 <img src="/Volumes/Samsung/SQL - RSVP Movies Case Study/ERD.png" title="ERD"/>

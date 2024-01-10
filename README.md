@@ -31,5 +31,5 @@ commands and data required for the database creation and start directly with the
 <img src="Table Column Mapping.png"/>
 
 ## ERD
-<img src="/Volumes/Samsung/SQL - RSVP Movies Case Study/ERD.png" title="ERD"/>
+<img src="ERD.png" title="ERD"/>
 
